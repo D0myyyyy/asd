@@ -14,4 +14,3 @@
 - az uj verzio elterolasa, commitolas:
     > git commit -m "first commit"
 
-## tavoli repoval valo osszekapcsolas
